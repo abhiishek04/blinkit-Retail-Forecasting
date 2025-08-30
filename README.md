@@ -14,7 +14,7 @@ A **real-world data analytics & forecasting project** on Blinkit transactions, d
 | Avg Order Value (AOV) | ₹2,201.86 |
 | Top 10 Areas Revenue Contribution | ~15% |
 | Seasonal Uplift (Festive Months) | +18% |
-| Premium Segment Revenue Share | 25%+ |
+| Premium Segment Revenue Share | 45%+ |
 | Prophet Forecast Horizon | Till Dec 2025 |
 | Predicted Sales (Dec 2025) | ~₹1.2M (±10%) |
 | Model Accuracy (MAPE) | 28.69% |
@@ -65,7 +65,7 @@ This project combines **data engineering, forecasting models, and BI dashboards*
 ### 📊 3. Exploratory Data Analysis (EDA)  
 - Avg daily sales: **₹18,000+**  
 - Avg order value: **₹2200+**  
-- Premium segment drives **25%+ of revenue**  
+- Premium segment drives **45%+ of revenue**  
 - Top 10 areas generate **15% of total sales**  
 - Seasonal uplift: **+18% during Oct–Dec festive period**  
 
@@ -117,7 +117,7 @@ This project combines **data engineering, forecasting models, and BI dashboards*
 - **MAPE = 28.69%** achieved → reliable retail forecasting.  
 - Created a **Power BI dashboard** for leadership decision-making.  
 - Derived key insights:  
-  - Premium customers = **35% of revenue**  
+  - Premium customers = **45% of revenue**  
   - Top 3 cities = **25% of sales**  
   - Festive season = **+18% sales uplift**  
 
@@ -126,13 +126,13 @@ This project combines **data engineering, forecasting models, and BI dashboards*
 ## 📈 Business Impact  
 - **Revenue Planning:** Predicted **₹6.5M monthly sales by Dec 2025**.  
 - **Inventory Optimization:** Seasonal uplift helps stock planning.  
-- **Customer Strategy:** Premium customers = **35%+ revenue share**.  
+- **Customer Strategy:** Premium customers = **55%+ revenue share**.  
 - **Area Strategy:** Top 10 areas = **25% of total revenue**.  
 - **Efficiency:** Automated dashboards reduced manual reporting by **70%**.  
 
 ---
 
-## 🔮 Future Scope  
+## Future Scope  
 - Include **marketing campaigns & discounts** in forecasting.  
 - Real-time integration with **Blinkit live order API**.  
 - Deploy model as **Web App / API for managers**.  
