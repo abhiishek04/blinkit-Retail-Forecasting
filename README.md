@@ -25,7 +25,7 @@ A **real-world data analytics & forecasting project** on Blinkit transactions, d
 
 Here’s a snapshot of the Blinkit Retail Forecasting & Insights Dashboard built in Power BI:  
 
-![Dashboard Preview](output.png)  
+![Dashboard Preview](https://github.com/abhiishek04/blinkit-Retail-Forecasting/blob/main/Dashboard%20Preview.png)  
 
 ---
 
@@ -97,16 +97,16 @@ This project combines **data engineering, forecasting models, and BI dashboards*
 
 ## 📊 Key Visualizations  
 
-### 1️⃣ Monthly Sales Forecast (till Dec 2025)  
+###  Monthly Sales Forecast (till Dec 2025)  
 <img src="Monthly Forecast till Dec2025.png" width="800">  
 
-### 2️⃣ Top 10 Areas – Daily Sales Trend  
+###  Top 10 Areas – Daily Sales Trend  
 <img src="Top 10 Areas Daily Sales Trend.png" width="800">  
 
-### 3️⃣ Overall Daily Sales Behavior  
+###  Overall Daily Sales Behavior  
 <img src="Overall Daily Sales.png" width="800">  
 
-### 4️⃣ Prophet Forecast Components  
+###  Prophet Forecast Components  
 <img src="output.png" width="700">  
 
 ---
@@ -151,7 +151,7 @@ This project combines **data engineering, forecasting models, and BI dashboards*
 
 ## 📬 Contact & Resources  
 - ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) **GitHub:** https://github.com/yourusername/blinkit-retail-forecasting  
-- 📧 **Email:** yourmail@example.com  
-- 💼 **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourprofile/)  
+- 📧 **Email:** info.abhisheksingh004@gmail.com  
+- 💼 **LinkedIn:** [Abhishek Singh](https://www.linkedin.com/in/yourprofile/)  
 
 ---
