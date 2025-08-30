@@ -150,7 +150,7 @@ This project combines **data engineering, forecasting models, and BI dashboards*
 ---
 
 ## 📬 Contact & Resources  
-- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) **GitHub:** https://github.com/yourusername/blinkit-retail-forecasting  
+- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) **GitHub:** https://github.com/abhiishek04/blinkit-Retail-Forecasting/tree/main  
 - 📧 **Email:** info.abhisheksingh004@gmail.com  
 - 💼 **LinkedIn:** [Abhishek Singh](https://www.linkedin.com/in/yourprofile/)  
 
